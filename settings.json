@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "one_block_346.aternos.me:42400",
+    "port": 42400,
     "version": "",
     "try-creative": false
   },
